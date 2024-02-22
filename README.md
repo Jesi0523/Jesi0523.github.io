@@ -6,6 +6,8 @@ El propósito de esta página web es mostrar el portafolio de proyectos de un(a)
 
 También incluye imágenes alternativas en la carpeta `imagenes` en caso de que se desee personalizar la imagen principal del desarrollador, además de animación a la escritura de la página web con JavaScript.
 
+[Portafolio](https://jesi0523-github-io.vercel.app/)
+
 ### Capturas de pantalla:
 
 Primera parte de la página web:
@@ -14,19 +16,19 @@ Primera parte de la página web:
 
 Experiencia:
 
-![Experiencia](imagenes/screenshot2.png)
+![Experiencia](https://github.com/Jesi0523/Jesi0523.github.io/assets/141075284/451aab54-3fd3-4017-a575-852ff085f975)
 
 Proyectos:
 
-![Proyectos](imagenes/screenshot3.png)
+![Proyectos](https://github.com/Jesi0523/Jesi0523.github.io/assets/141075284/5944f74c-815b-4fb5-9aff-2a6ce426e9e1)
 
 Testimonios:
 
-![Testimonios](imagenes/screenshot4.png)
+![Testimonios](https://github.com/Jesi0523/Jesi0523.github.io/assets/141075284/f1d355e4-c27b-4125-8466-504215923528)
 
 Contacto:
 
-![Contacto](imagenes/screenshot5.png)
+![Contacto](https://github.com/Jesi0523/Jesi0523.github.io/assets/141075284/eaf7d532-c016-408e-bfb1-ecd84e1288e7)
 
 ## Tecnologías
 
