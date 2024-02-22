@@ -44,5 +44,4 @@ Además, se incluyeron **Google Fonts** para personalizar la fuente y **Bootstra
 El texto de la página web está escrito en español, al igual que las clases y atributos personalizados. Las clases relacionadas con Bootstrap se incluyeron en inglés.
 
 
-
-
+![01](https://github.com/Jesi0523/Jesi0523.github.io/assets/141075284/7662fcad-bab2-4e28-9233-cae5193a8d0c)
